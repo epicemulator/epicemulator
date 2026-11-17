@@ -3,7 +3,7 @@
 // <p align="center">
 //  <img src=https://example.com/example.png>
 // </p> -->
-Epic! *(named after the Explicitly parallel instruction computing architecture)* is an emulator that aims to accurately emulate multiple generations of the Intel Itanium faithfully.
+Epic! *(aptly named after the Explicitly Parallel Instruction Computing architecture)* is an emulator that aims to accurately emulate multiple generations of the Intel Itanium faithfully.
 
 ## What does Epic! aim to emulate?
 Epic! currently emulates the following machines *(as of 11-17-2026)*:
